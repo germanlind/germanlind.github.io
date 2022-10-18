@@ -1,0 +1,72 @@
+body {
+    background-color: rgb(0, 0, 0);
+    ;
+}
+
+* {
+    font-family: 'Noto Sans Mono', monospace;
+
+    color: rgb(175, 175, 175);
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+p {
+    max-width: 600px;
+    margin: 0px auto;
+
+}
+
+
+table {
+    background-color: rgb(20, 20, 20);  
+    width: 600px;
+    margin: 0px auto;
+}
+
+thead {
+    font-weight: bold;
+    text-align: left;
+    background-color: rgb(10, 10, 10);
+    border: 1px solid black;
+}
+
+.rowgray {
+    background-color: rgb(15, 15, 15);
+}
+
+th {
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+}
+
+#green {
+    background-color: #008000;
+}
+
+#red {
+    background-color: #FF0000;
+}
+
+#blue {
+    background-color: #0000FF;
+}
+
+#silver {
+    background-color: #C0C0C0;
+}
+
+#white {
+    background-color: #ffffff;
+}
